@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime, timedelta
 
 # OpenWeatherMap API Key (replace with your own)
-API_KEY = "3a5cc2310a48f3133b331faed7861fcdm"
+API_KEY = "3a5cc2310a48f3133b331faed7861fcd"
 
 
 # Function to get current weather data
